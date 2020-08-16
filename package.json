@@ -8,8 +8,5 @@
     "start": "node app.js"
   },
   "author": "acode91",
-  "license": "ISC",
-  "dependencies": {
-    "morgan": "^1.10.0"
-  }
+  "license": "ISC"
 }
